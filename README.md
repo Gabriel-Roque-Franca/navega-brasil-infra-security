@@ -29,7 +29,7 @@ Data Center principal (Servidores WEB, DB, E-commerce) isolado em sua própria V
 
 **📍 Filial 2 (Norte) - Topologia Estrela Simples**
 
-![Topologia da Filial 2](image_a8e91e.png)
+![Topologia da Filial 2](topologia-filial-2.png)
 
 ## 👥 Equipe do Projeto
 Carolina Friedrich | Gabriel Roque França | Lucas Kiodi Moraca | Rebeca Martins Teixeira | Sara Marcely Andrade de Oliveira | Vinicius Paulo de Almeida
