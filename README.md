@@ -25,7 +25,7 @@ Data Center principal (Servidores WEB, DB, E-commerce) isolado em sua própria V
 
 **📍 Filial 1 (Nordeste) - Topologia Estrela Simples**
 
-![Topologia da Filial 1](image_a8e95a.png)
+![Topologia da Filial 1](topologia-filial-1.png)
 
 **📍 Filial 2 (Norte) - Topologia Estrela Simples**
 
