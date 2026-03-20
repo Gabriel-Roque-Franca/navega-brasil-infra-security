@@ -21,15 +21,15 @@ Este repositório contém o projeto acadêmico de estruturação da infraestrutu
 **🏢 Unidade Sede (Sudeste) - Topologia Estrela Hierárquica**
 Data Center principal (Servidores WEB, DB, E-commerce) isolado em sua própria VLAN.
 
-![Topologia da Sede](topologia-sede.png.png)
+![Topologia da Sede](image_a8e99a.png)
 
 **📍 Filial 1 (Nordeste) - Topologia Estrela Simples**
 
-![Topologia da Filial 1](topologia-filial-1.png.png)
+![Topologia da Filial 1](image_a8e95a.png)
 
 **📍 Filial 2 (Norte) - Topologia Estrela Simples**
 
-![Topologia da Filial 2](topologia-filial-2.png.png)
+![Topologia da Filial 2](image_a8e91e.png)
 
 ## 👥 Equipe do Projeto
 Carolina Friedrich | Gabriel Roque França | Lucas Kiodi Moraca | Rebeca Martins Teixeira | Sara Marcely Andrade de Oliveira | Vinicius Paulo de Almeida
