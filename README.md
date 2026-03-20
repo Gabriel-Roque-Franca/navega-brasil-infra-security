@@ -13,19 +13,22 @@ Este repositório contém o projeto acadêmico de estruturação da infraestrutu
 * **Plano de Resposta a Incidentes:** Estruturação de um fluxo de IR baseado no framework **NIST**.
 
 ## 📂 Estrutura do Repositório
-* `Projeto A3 - Navega Brasil.pdf`: Documento ABNT detalhando a organização, topologia, matriz de riscos e o Plano de Segurança da Informação.
-* `Projeto A3.pkt`: Arquivo do Cisco Packet Tracer contendo a simulação da rede.
+* [📄 Projeto A3 - Navega Brasil.pdf](Projeto%20A3%20-%20Navega%20Brasil.pdf): Documento ABNT detalhando a organização, topologia, matriz de riscos e o Plano de Segurança da Informação.
+* [🕸️ Projeto A3.pkt](Projeto%20A3.pkt): Arquivo do Cisco Packet Tracer contendo a simulação da rede.
 
 ## 🗺️ Mapeamento da Infraestrutura (Cisco Packet Tracer)
 
 **🏢 Unidade Sede (Sudeste) - Topologia Estrela Hierárquica**
 Data Center principal (Servidores WEB, DB, E-commerce) isolado em sua própria VLAN.
+
 ![Topologia da Sede](topologia-sede.png.png)
 
 **📍 Filial 1 (Nordeste) - Topologia Estrela Simples**
+
 ![Topologia da Filial 1](topologia-filial-1.png.png)
 
 **📍 Filial 2 (Norte) - Topologia Estrela Simples**
+
 ![Topologia da Filial 2](topologia-filial-2.png.png)
 
 ## 👥 Equipe do Projeto
