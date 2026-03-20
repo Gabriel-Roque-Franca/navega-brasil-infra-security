@@ -21,7 +21,7 @@ Este repositório contém o projeto acadêmico de estruturação da infraestrutu
 **🏢 Unidade Sede (Sudeste) - Topologia Estrela Hierárquica**
 Data Center principal (Servidores WEB, DB, E-commerce) isolado em sua própria VLAN.
 
-![Topologia da Sede](image_a8e99a.png)
+![Topologia da Sede](topologia-sede.png)
 
 **📍 Filial 1 (Nordeste) - Topologia Estrela Simples**
 
